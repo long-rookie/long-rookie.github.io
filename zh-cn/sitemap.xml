@@ -2,15 +2,6 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://long-rookie.github.io/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://long-rookie.github.io/en/about/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://long-rookie.github.io/about/"
-                    /></url><url>
             <loc>https://long-rookie.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -37,16 +28,4 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://long-rookie.github.io/tags/"
-                    /></url><url>
-            <loc>https://long-rookie.github.io/tags/installation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://long-rookie.github.io/tags/content/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://long-rookie.github.io/tags/configuration/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://long-rookie.github.io/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://long-rookie.github.io/en/categories/documentation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://long-rookie.github.io/categories/documentation/"
                     /></url></urlset>
