@@ -2,6 +2,18 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://long-rookie.github.io/</loc><lastmod>2022-10-12T15:16:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://long-rookie.github.io/en/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://long-rookie.github.io/"
+                    /></url><url>
+            <loc>https://long-rookie.github.io/posts/</loc><lastmod>2022-10-12T15:16:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://long-rookie.github.io/two/</loc><lastmod>2022-10-12T15:16:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://long-rookie.github.io/first/</loc><lastmod>2022-10-12T13:19:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://long-rookie.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -10,15 +22,6 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://long-rookie.github.io/categories/"
-                    /></url><url>
-            <loc>https://long-rookie.github.io/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://long-rookie.github.io/en/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://long-rookie.github.io/"
                     /></url><url>
             <loc>https://long-rookie.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
